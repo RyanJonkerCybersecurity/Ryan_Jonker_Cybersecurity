@@ -1,0 +1,10 @@
+print("Welcome to the MILES TO KILOMETERS CONVERTER!")
+print("Created by Ryan Jonker Cybersecurity")
+miles = float(input("How many miles? "))
+conversion = float(1.609344)
+print(miles * conversion)
+print("kilometers!")
+# Visit RyanJonker.com for more content
+# Find me on LinkedIn and YouTube!
+# Thanks for checking it out!
+# version 1.0 uploaded on June 30, 2021
